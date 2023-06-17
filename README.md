@@ -15,7 +15,7 @@ Repository Contents
 
 Getting Started
 To run this webpage locally, follow these steps:
-- Clone the repository: git clone https://github.com/your-username/repository-name.git
+- Clone the repository: git clone https://github.com/imshaheer/Simple-Webpage-with-HTML-and-CSS.git
 - Navigate to the project directory: cd repository-name
 - Open the index.html file in your preferred web browser.
 
